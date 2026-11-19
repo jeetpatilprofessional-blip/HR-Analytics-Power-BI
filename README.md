@@ -36,17 +36,24 @@ An interactive HR Analytics dashboard built in Power BI to explore workforce com
 - How does employee experience relate to attrition?
 
 ## Dashboard
-The Power BI dashboard file (.pbix) and supporting data/documentation can be added to this repository.
+## Dashboard Preview
+
+![HR Analytics Dashboard](Images/HR-Analytics-Dashboard.png)
+
+## Project Files
+- `Dashboard/HR Analytics Dashboard.pbix` — Power BI report.
+- `Dataset/HR_Analytics.csv` — dataset used by the report.
+- `Images/HR-Analytics-Dashboard.png` — dashboard preview.
 
 ## Repository Structure
 ```
 HR-Analytics-Power-BI/
 ├── Dashboard/
-│   └── HR-Analytics-Dashboard.pbix
+│   └── HR Analytics Dashboard.pbix
 ├── Dataset/
-│   └── HR-Dataset.csv
+│   └── HR_Analytics.csv
 ├── Images/
-│   └── dashboard-screenshot.png
+│   └── HR-Analytics-Dashboard.png
 └── README.md
 ```
 
